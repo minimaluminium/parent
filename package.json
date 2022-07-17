@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "root",
+    "workspaces": [
+        "themes/*"
+    ],
+    "devDependencies": {}
+}
